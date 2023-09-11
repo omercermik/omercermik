@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+👋🏻 Hi, My name is Yasin
+🏫 I'm 3rd year Software Engineering student in Maltepe University
+👨🏼‍💻 I’m interested in iOS development
+🤓 I want to develop my own apps and be a good iOS developer
+
 <!--
 **omercermik/omercermik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
