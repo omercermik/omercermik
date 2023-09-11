@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-👋🏻 Hi, My name is Yasin
-🏫 I'm 3rd year Software Engineering student in Maltepe University
-👨🏼‍💻 I’m interested in iOS development
-🤓 I want to develop my own apps and be a good iOS developer
+👋🏻 Hi, My name is Omer
 
+🏫 I'm a 2nd year Computer Programming student at Istanbul University.
+
+👨🏼‍💻 I’m interested in Python development
+
+🤓 I want to develop my own projects and become a good Python developer
 <!--
 **omercermik/omercermik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
