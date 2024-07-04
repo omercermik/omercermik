@@ -2,7 +2,6 @@
 
 👋🏻 Hi, My name is Omer
 
-🏫 I'm a 2nd year Computer Programming student at Istanbul University.
 
 👨🏼‍💻 I’m interested in Python development
 
